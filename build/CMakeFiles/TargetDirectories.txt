@@ -188,6 +188,13 @@ F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/esp_partition/CM
 F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/esp_partition/CMakeFiles/install/local.dir
 F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/esp_partition/CMakeFiles/install/strip.dir
 F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/__idf_app_update.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/blank_ota_data.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/read-otadata.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/read_otadata.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/erase-otadata.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/erase_otadata.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/otadata-flash.dir
+F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/encrypted-otadata-flash.dir
 F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/edit_cache.dir
 F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/rebuild_cache.dir
 F:/DEVICE_BUILD_ZONE/BlablaStoiku/ControllerStoek/build/esp-idf/app_update/CMakeFiles/list_install_components.dir
